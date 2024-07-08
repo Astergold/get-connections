@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aster-sheet-project",
+  "private_key_id": "2d90e203fc0b2f461ff7986737231ad91350960a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVIbS6/sUlplEo\ncfGG36R5Odf09WdQt0pw77xwf3MXYmeb8tpHbCPrww8/EJjlNfQoBs9wpFs1lDtc\nnkMVh8Z/kuauMbgvKxgGD8UAsvwQh3Li++94At3d6BjbUu04RrIJzv5vQdiula6+\nDhAEkloJ6kBBqM2lEzl2RyUc1yYJKDk71By/tgdPBVU7xJwDUMXQC0TintUT+X36\ngkmX9Cijb9hkiWt+7vnjy9mSNvqrIfHHNW6H0w/S0dnRaj3+9U09PC/z9lqbkKmF\n18+JaSa3Ith0cLAm4kwIUKZqnZv9CVofS/JarZKPJoDkL0+ev0rSQ4LTE8C0jpzz\njmIXW6v5AgMBAAECggEARwMwAI4aiezcZalxXArv9iQ7vDZ38gDgILkABEuywTvc\nYa2M5Pc3ELqxPcX964EKlLuQKmvYqAV3sehZWbcfgComCiwuviiRnJNshEseiTNY\nKCDhLQ9ndSR8A7ehqnqDn5kEVXWPCLx+uHxfAebxcRRHzJi9zB6Xqr0RtIZK+gl9\nO7bQgwpnc3hVCSLGK3zBqJ6ClxfL8Cf0pB6kN+qgEG96/fovo61dXLmRYB9BXLjy\nECL572oC+jDD1Z6oVAlu9I7X3cSe9YYCtUxX6ewAydtigbJGTvLc1WVPi8SvMJs4\nnE4xmPSgkXc4QxksvgkzPyc9UTG6xBmCOo7Sud6EcQKBgQDtKVSViFTrHLRQOrOM\nOfUxYQSTdjDTAo0TLHjqLSwrAks001eoU9G1ymd8Glx40JXZw6L7FQlrVyxprOiY\nHP0YVCMzEaHlUE2BgeJAJS3PK5WY5mD3bV03K3OuT5ZY2+60e3VqHZEgOCGqf17d\nk/yD8wwikvczAZnnGs/nzpeY5wKBgQDmD7sVDVPDQvd9sdz4K/2WtyYTOlFd15pp\ncalr6Hk1EgZZ+MWOe8MTHcQNog068tvUYO2LMja9Pb9w6W+2E6hbM0+1mLLxcmiH\naHdl9OdqPAQHdK6aFn+87nh2SZeqDH0ow5mX3V9NFKo3THV4kde5UKxToW4Ou5TU\nX+IaVDGYHwKBgQC0ShAoINzVYxvcRdPKjSDNqgBNjbLuJmlSoyNEepSyGWtMvEFO\nEHJC7Zyf5nZXzdGtGyFiGIrxk/KKX0zunlL1VLjxkLzvU42oHzH9K4ZYkLyH4NLk\nJbqQPzMQ1yXnZUJg593JjrKNuL43G97lOSPktzaJbgoIN3ZlDqfwg8gRDwKBgHTw\nSgfJXmpB/8rEPa1nrt6M+a2MVw98J+CxBYzz/agcIV5aNRDXl7B/0MedN1xfVZ3+\nJsA6JdjLKiQag83o8ApranjDxTE1Fiy9zPLmKTq2htXDWXy5MvS1wkVd4tlsv7GY\nutmWjHqBpoO1OYCvoRdxCib4Rxj2ABBzLFp1sT/BAoGAegfZ3byk378Djjqjgobh\nrjBhzix3rmR0Bp3HuKB5+3HSh193FJu7ZxrmckNWybZM9U8H03vbPTRySU8WV6Ln\no9+ls0DbmGpnSms78Bu9PYJvVbiiFJsgURumzbtGxcZ/PvWWqC2GVFwfq60DUKrU\nd+EWlEJhhRO2zK/GCqu2jsE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "aster-sheet@aster-sheet-project.iam.gserviceaccount.com",
+  "client_id": "112092285386244833818",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aster-sheet%40aster-sheet-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
